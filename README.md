@@ -1,0 +1,2 @@
+# GenshinReward_release
+原神のログインボーナスを毎日自動受け取りできるAndroidアプリです
